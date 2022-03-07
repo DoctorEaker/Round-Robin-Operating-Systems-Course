@@ -15,6 +15,6 @@ Then run:
 
       ./main
 
-You will be prompted to enter the number of processes, and their burst time or time they need to complete.
+You will be prompted to enter the number of processes, and their burst time or time they need to be completed.
 
 The time for the quantum is set to 2 by default.

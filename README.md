@@ -8,9 +8,12 @@ https://www.geeksforgeeks.org/program-round-robin-scheduling-set-1/
 To execute it you need a c++ compiler, g++ is recomended
 
 Run the following command:
-  g++ main.cpp -o main
+
+      g++ main.cpp -o main
   
-Then run ./main
+Then run:
+
+      ./main
 
 You will be prompted to enter the number of processes, and their burst time or time they need to complete.
 

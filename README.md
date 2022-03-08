@@ -1,5 +1,5 @@
 # Round-Robin-Operating-Systems-Course
-Round Robin Basic Algorithm
+Round Robin Basic Time for Completion calculator Algorithm
 
 To execute it you need a c++ compiler, g++ is recomended
 
